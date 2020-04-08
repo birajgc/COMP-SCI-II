@@ -117,7 +117,7 @@ void Output(ofstream& Outfile, double fees, int hours, int enter_time, int exit_
 //Returns - Nothing
 void Header(ofstream& Outfile)
 {
-	Outfile << setw(30) << "Johnathan Raath";
+	Outfile << setw(30) << "Biraj Singh GC";
 	Outfile << setw(17) << "CSC 24400";
 	Outfile << setw(15) << "Section 11" << endl;
 	Outfile << setw(30) << "Fall 2019";

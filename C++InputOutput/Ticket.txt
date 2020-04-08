@@ -1,0 +1,162 @@
+               Johnathan Raath        CSC 24400     Section 11
+                     Fall 2019         Assigment 1
+ ---------------------------------- ----------------------------------
+
+ The input data was: 
+   T 980 1035
+
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $                        $ 
+ $    MISSOURI WESTERN    $ 
+ $       UNIVERSITY       $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $      PARKING FEE       $ 
+ $                        $ 
+ $  Customer              $ 
+ $  Category:  Truck      $ 
+ $                        $ 
+ $  Time:      1  hours   $
+ $                        $ 
+ $  Amount                $ 
+ $  Paid:      $0.40      $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 
+
+ The input data was: 
+   C 421 488
+
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $                        $ 
+ $    MISSOURI WESTERN    $ 
+ $       UNIVERSITY       $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $      PARKING FEE       $ 
+ $                        $ 
+ $  Customer              $ 
+ $  Category:  Car        $ 
+ $                        $ 
+ $  Time:      2  hours   $
+ $                        $ 
+ $  Amount                $ 
+ $  Paid:      $0.40      $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 
+
+ The input data was: 
+   T 540 1340
+
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $                        $ 
+ $    MISSOURI WESTERN    $ 
+ $       UNIVERSITY       $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $      PARKING FEE       $ 
+ $                        $ 
+ $  Customer              $ 
+ $  Category:  Truck      $ 
+ $                        $ 
+ $  Time:      14 hours   $
+ $                        $ 
+ $  Amount                $ 
+ $  Paid:      $1.30      $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 
+
+ The input data was: 
+   S 642 1020
+
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $                        $ 
+ $    MISSOURI WESTERN    $ 
+ $       UNIVERSITY       $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $      PARKING FEE       $ 
+ $                        $ 
+ $  Customer              $ 
+ $  Category:  SN         $ 
+ $                        $ 
+ $  Time:      7  hours   $
+ $                        $ 
+ $  Amount                $ 
+ $  Paid:      $0.84      $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 
+
+ The input data was: 
+   T 725 1130
+
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $                        $ 
+ $    MISSOURI WESTERN    $ 
+ $       UNIVERSITY       $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $      PARKING FEE       $ 
+ $                        $ 
+ $  Customer              $ 
+ $  Category:  Truck      $ 
+ $                        $ 
+ $  Time:      7  hours   $
+ $                        $ 
+ $  Amount                $ 
+ $  Paid:      $0.95      $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 
+
+ The input data was: 
+   C 605 807
+
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $                        $ 
+ $    MISSOURI WESTERN    $ 
+ $       UNIVERSITY       $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $      PARKING FEE       $ 
+ $                        $ 
+ $  Customer              $ 
+ $  Category:  Car        $ 
+ $                        $ 
+ $  Time:      4  hours   $
+ $                        $ 
+ $  Amount                $ 
+ $  Paid:      $0.70      $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 
+
+ The input data was: 
+   C 445 1152
+
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $                        $ 
+ $    MISSOURI WESTERN    $ 
+ $       UNIVERSITY       $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ $      PARKING FEE       $ 
+ $                        $ 
+ $  Customer              $ 
+ $  Category:  Car        $ 
+ $                        $ 
+ $  Time:      12 hours   $
+ $                        $ 
+ $  Amount                $ 
+ $  Paid:      $1.20      $ 
+ $                        $ 
+ $$$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 
+
+
+---------------------------------- 
+|    END OF PROGRAM OUTPUT       | 
+---------------------------------- 

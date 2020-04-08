@@ -1,0 +1,134 @@
+                Biraj Singh GC        CSC 24400     Section 11
+                     Fall 2019       Assignment #6
+---------------------------------- - ---------------------------------- -  
+
+ID #   	       Name                  Department      Position          Pay    
+------------------------------------------------------------------------------
+20017    Selene        Wolfe         Board Room      Vice President  550450.50
+30045    Johnson       Oliver        Marketing       Ad Manager       33928.90
+87023    Alexsandru    Andrei        Sales           Chief Associate  98203.71
+------------------------------------------------------------------------------
+                            Total Amount of Payroll                  682583.11
+
+********************************************************************************
+
+ID #   	       Name                  Department      Position          Pay    
+------------------------------------------------------------------------------
+12058    Alayne        Beshey        Board Room      President       705390.20
+20017    Selene        Wolfe         Board Room      Vice President  550450.50
+30045    Johnson       Oliver        Marketing       Ad Manager       33928.90
+45076    Omad          Royeen        IT              Programmer       65729.99
+87023    Alexsandru    Andrei        Sales           Chief Associate  98203.71
+99066    Hannah        McKay         Marketing       Field Associate  23570.56
+------------------------------------------------------------------------------
+                            Total Amount of Payroll                 1477273.86
+
+********************************************************************************
+
+ID #   	       Name                  Department      Position          Pay    
+------------------------------------------------------------------------------
+12058    Alayne        Beshey        Board Room      President       705390.20
+20017    Selene        Wolfe         Board Room      Vice President  550450.50
+22129    Adam          Ebel          Accounting      Chief Acountant  54005.22
+29133    Aaron         Henningfeld   Human Resources Chief Actuary   101845.55
+30045    Johnson       Oliver        Marketing       Ad Manager       33928.90
+34102    Harrison      York          Manufacturing   Division Chief   98310.34
+45076    Omad          Royeen        IT              Programmer       65729.99
+64149    Keith         Djouba        IT              Programmer       78920.66
+77113    Benjamin      Nelson        Communications  Division Chief   85901.56
+80089    Mariana       Fuentes Toro  Accounting      Vice President  103780.90
+87023    Alexsandru    Andrei        Sales           Chief Associate  98203.71
+94099    Keith         Djouba        IT              Chief Programmer250555.00
+99066    Hannah        McKay         Marketing       Field Associate  23570.56
+------------------------------------------------------------------------------
+                            Total Amount of Payroll                 2250593.09
+
+********************************************************************************
+
+ID #   	       Name                  Department      Position          Pay    
+------------------------------------------------------------------------------
+12058    Alayne        Beshey        Board Room      President       705390.20
+20017    Selene        Wolfe         Board Room      Vice President  550450.50
+22129    Adam          Ebel          Accounting      Chief Acountant  54005.22
+29133    Aaron         Henningfeld   Human Resources Chief Actuary   101845.55
+30045    Johnson       Oliver        Marketing       Ad Manager       33928.90
+34102    Harrison      York          Manufacturing   Division Chief   98310.34
+45076    Omad          Royeen        IT              Programmer       65729.99
+64149    Keith         Djouba        IT              Programmer       78920.66
+67155    Lie           Gu            House Keeping   Division Chief   45920.66
+77113    Benjamin      Nelson        Communications  Division Chief   85901.56
+80089    Mariana       Fuentes Toro  Accounting      Vice President  103780.90
+87023    Alexsandru    Andrei        Sales           Chief Associate  98203.71
+93160    Jacob         Barger        Sales           Operations Chief 76321.22
+94099    Keith         Djouba        IT              Chief Programmer250555.00
+99066    Hannah        McKay         Marketing       Field Associate  23570.56
+------------------------------------------------------------------------------
+                            Total Amount of Payroll                 2372834.97
+
+********************************************************************************
+
+ID #   	       Name                  Department      Position          Pay    
+------------------------------------------------------------------------------
+12058    Alayne        Beshey        Board Room      President       705390.20
+
+********************************************************************************
+
+ID #   	       Name                  Department      Position          Pay    
+------------------------------------------------------------------------------
+12058    Alayne        Beshey        Board Room      President       705390.20
+20017    Selene        Wolfe         Board Room      Vice President  550450.50
+22129    Adam          Ebel          Accounting      Chief Acountant  54005.22
+29133    Aaron         Henningfeld   Human Resources Chief Actuary   101845.55
+30045    Johnson       Oliver        Marketing       Ad Manager       33928.90
+34102    Harrison      York          Manufacturing   Division Chief   98310.34
+43180    Brendan       Ochs          IT              Programmer       57623.44
+45076    Omad          Royeen        IT              Programmer       65729.99
+55177    Joseph        Sides         IT              Programmer       56780.99
+64149    Keith         Djouba        IT              Programmer       78920.66
+67155    Lie           Gu            House Keeping   Division Chief   45920.66
+77113    Benjamin      Nelson        Communications  Division Chief   85901.56
+80089    Mariana       Fuentes Toro  Accounting      Vice President  103780.90
+87023    Alexsandru    Andrei        Sales           Chief Associate  98203.71
+88210    Alton         Stillwell     Sales           Chief Associate  87643.50
+93160    Jacob         Barger        Sales           Operations Chief 76321.22
+94099    Keith         Djouba        IT              Chief Programmer250555.00
+98301    Jacob         Barger        House Keeping   Shift Manager    35670.55
+99066    Hannah        McKay         Marketing       Field Associate  23570.56
+------------------------------------------------------------------------------
+                            Total Amount of Payroll                 2610553.45
+
+********************************************************************************
+
+ID #   	       Name                  Department      Position          Pay    
+------------------------------------------------------------------------------
+12058    Alayne        Beshey        Board Room      President       705390.20
+13390    Lei           Gu            HouseKeeping    Cleaner          33290.50
+20017    Selene        Wolfe         Board Room      Vice President  550450.50
+22129    Adam          Ebel          Accounting      Chief Acountant  54005.22
+22223    Matthew       Van Coutren   IT              Programmer       72890.66
+29133    Aaron         Henningfeld   Human Resources Chief Actuary   101845.55
+30045    Johnson       Oliver        Marketing       Ad Manager       33928.90
+34102    Harrison      York          Manufacturing   Division Chief   98310.34
+43180    Brendan       Ochs          IT              Programmer       57623.44
+45076    Omad          Royeen        IT              Programmer       65729.99
+55177    Joseph        Sides         IT              Programmer       56780.99
+64149    Keith         Djouba        IT              Programmer       78920.66
+67155    Lie           Gu            House Keeping   Division Chief   45920.66
+77113    Benjamin      Nelson        Communications  Division Chief   85901.56
+80089    Mariana       Fuentes Toro  Accounting      Vice President  103780.90
+87023    Alexsandru    Andrei        Sales           Chief Associate  98203.71
+87204    Tayler        Monaco        Maintenance     AC Repairman     48789.33
+88210    Alton         Stillwell     Sales           Chief Associate  87643.50
+93160    Jacob         Barger        Sales           Operations Chief 76321.22
+94099    Keith         Djouba        IT              Chief Programmer250555.00
+98301    Jacob         Barger        House Keeping   Shift Manager    35670.55
+99066    Hannah        McKay         Marketing       Field Associate  23570.56
+------------------------------------------------------------------------------
+                            Total Amount of Payroll                 2765523.94
+
+********************************************************************************
+
+
+-------------------------------- - 
+         | END OF PROGRAM OUTPUT | 
+-------------------------------- - 

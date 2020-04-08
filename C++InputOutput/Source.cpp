@@ -5,7 +5,7 @@
 //*                                                                                                     *
 //*   PROGRAM AUTHOR:                                                                                   *
 //*                   ___________________________________________________                               *
-//*                                    JOHNATHAN RAATH                                                  *
+//*                                    Biraj Singh GC                                                   *
 //*                                                                                                     *
 //*   COURSE #:  CSC 24400 11                              DUE DATE: September 20, 2019                 *
 //*                                                                                                     *
